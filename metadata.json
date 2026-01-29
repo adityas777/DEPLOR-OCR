@@ -1,0 +1,7 @@
+{
+  "name": "Devanagari Intelligence - Advanced Hindi OCR",
+  "description": "A high-end, dark-themed Hindi OCR and document analysis suite powered by Gemini multimodal reasoning. Specialized for government documents, FIRs, and handwritten notes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
